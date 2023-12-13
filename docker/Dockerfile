@@ -1,0 +1,1 @@
+FROM  camicroscope/iipimage:latest
