@@ -28,7 +28,7 @@
 	<artifactId>cora-docker-iipimageserver</artifactId>
 	<packaging>pom</packaging>
 	<version>1.0-SNAPSHOT</version>
-	<name>Cora docker for Binary Converter</name>
+	<name>Cora docker for IIP image server</name>
 
 	<properties>
 		<outputDirectory>${project.build.directory}/docker2</outputDirectory>
