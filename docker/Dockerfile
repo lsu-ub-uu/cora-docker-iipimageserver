@@ -1,1 +1,1 @@
-FROM  camicroscope/iipimage:latest
+FROM  iipsrv/iipsrv

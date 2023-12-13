@@ -98,9 +98,9 @@
 							<workingDirectory>${outputDirectory}</workingDirectory>
 							<arguments>
 								<argument>build</argument>
+								<argument>.</argument>
 								<argument>-t</argument>
 								<argument>${project.artifactId}:${project.version}</argument>
-								<argument>.</argument>
 							</arguments>
 						</configuration>
 					</execution>
