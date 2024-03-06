@@ -1,0 +1,3 @@
+#!/bin/sh
+nginx -e /etc/nginx/nginx.conf
+iipsrv --bind 0.0.0.0:9000
