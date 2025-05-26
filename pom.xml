@@ -27,7 +27,7 @@
 
 	<artifactId>cora-docker-iipimageserver</artifactId>
 	<packaging>pom</packaging>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>Cora docker for IIP image server</name>
 
 	<properties>
@@ -39,7 +39,7 @@
 		<connection>scm:git:https://github.com/lsu-ub-uu/cora-docker-iipimageserver.git</connection>
 		<developerConnection>scm:git:https://github.com/lsu-ub-uu/cora-docker-iipimageserver.git</developerConnection>
 		<url>https://github.com/lsu-ub-uu/cora-docker-iipimageserver.git</url>
-		<tag>release/1.0</tag>
+		<tag>cora-docker-iipimageserver-1.0.0</tag>
 	</scm>
 
 
